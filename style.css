@@ -12,3 +12,12 @@ canvas {
  border: 2px solid black;
  margin-top: 20px;
 }
+
+body{
+  margin:0;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  background:#FF5722;
+}
